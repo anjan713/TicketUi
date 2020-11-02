@@ -6,11 +6,13 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Images are used for demonstration only not for commercial use  
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Applied Animation effect for card 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![4kpxdg](https://user-images.githubusercontent.com/40123185/97878251-67b79c00-1d44-11eb-9190-6eeb84968e7f.gif)
+
+
+Animation effect for menu 
+
+![4kq2m6](https://user-images.githubusercontent.com/40123185/97882408-98e69b00-1d49-11eb-890e-defc55e4e4ce.gif)
